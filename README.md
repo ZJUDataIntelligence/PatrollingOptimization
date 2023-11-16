@@ -4,7 +4,6 @@ This simulator serves as the training and evaluation platform in the following w
 
 > Efficient Large-Scale Fleet Management via Multi-Agent Deep Reinforcement Learning </br>
 Kaixiang Lin, Renyu Zhao, Zhe Xu, Jiayu Zhou </br>
-[KDD 2018 Long presentation](https://arxiv.org/abs/1802.06444)
 
 ### Prerequisites
 - Python 2
