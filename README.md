@@ -1,12 +1,5 @@
 # PatrollingOptimization
 
-This simulator serves as the training and evaluation platform in the following work:
-
-
-> A Risk-aware Multi-objective Patrolling Route Optimization Method using Reinforcement Learning </br>
-> Haowen Chen, Yifan Wu, Weikun Wang, Binbin Zhou </br>
-> [IEEE ICPADS 2023 presentation](https://arxiv.org/abs/1802.06444)
-
 ### Prerequisites
 
 - Python 2
